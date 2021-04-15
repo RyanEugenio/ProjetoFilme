@@ -1,0 +1,14 @@
+{
+    "name": "ryane/projetofinal",
+    "description": "projeto final",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ryan Eugenio",
+            "email": "ryaneugenio@hotmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
